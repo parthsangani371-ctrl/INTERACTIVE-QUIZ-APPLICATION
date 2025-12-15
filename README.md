@@ -13,3 +13,5 @@
 *MENTOR*: NEELA SANTHOSH
 
 ## I MAKE INTERACTIVE-QUIZ-APPLICATION USING SOME AI TOOLS AND REFERENCES. I USE VS CODE TO WRITE THE CODE. I TRIED MY BEST TO MAKE IT.
+
+##<img width="433" height="906" alt="Image" src="https://github.com/user-attachments/assets/fc9fbb44-c60b-46a4-b01a-a13b0d350ecb" />
