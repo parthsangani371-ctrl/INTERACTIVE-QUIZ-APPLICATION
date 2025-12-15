@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Quiz App</title>
+    <link rel="stylesheet" href="Task-1.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Interactive Quiz</h1>
+        <div id="start-screen">
+            <p>Welcome! Test your knowledge with this quiz. Click start to begin.</p>
+        <button id="start-btn">Start Quiz</button>
+        </div>
+        <div id="quiz-screen" class="hidden">
+            <div class="progress">
+                <div class="progress-bar">
+                    <div class="progress-fill" id="progress-fill"></div>
+                </div>
+            </div>
+            <div class="question" id="question"></div>
+            <div class="options" id="options"></div>
+            <div class="feedback" id="feedback"></div>
+            <button id="next-btn" class="hidden">Next Question</button>
+        </div>
+        <div id="end-screen" class="hidden">
+            <div class="score" id="score"></div>
+            <button id="restart-btn">Restart Quiz</button>
+        </div>
+    </div>
+
+    <script src="Task-1.js" defer></script>
+</body>
+</html>
